@@ -3,34 +3,35 @@
 @tailwind components;
 @tailwind utilities;
 
+
 .font-family-karla {
     font-family: Karla, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
 }
 
 .bg-sidebar {
-    background: #c4b5fd;
+    background: #3d68ff;
 }
 
 .cta-btn {
-    color: #a78bfa;
+    color: #3d68ff;
 }
 
 .upgrade-btn {
-    background: #a78bfa;
+    background: #1947ee;
 }
 
 .upgrade-btn:hover {
-    background: #8b5cf6;
+    background: #0038fd;
 }
 
 .active-nav-link {
-    background: #a78bfa;
+    background: #1947ee;
 }
 
 .nav-item:hover {
-    background: #a78bfa;
+    background: #1947ee;
 }
 
 .account-link:hover {
-    background: #c4b5fd;
+    background: #3d68ff;
 }
